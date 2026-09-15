@@ -1,16 +1,45 @@
-## Hi there 👋
+## Здравствуйте👋
 
-<!--
-**pavelsukmanov89-blip/pavelsukmanov89-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Меня зовут Павел Сукманов
+Я системный аналитик с практическим опытом полного цикла работы с требованиями: от анализа интервью с заказчиком до прототипирования и защиты проекта.
+Владею REST API, Swagger, SQL. Работаю с BPMN, UML, C4 Model. Документирую каждое решение и могу объяснить любую часть проекта. В долгосрочной перспективе — прикладные исследования на стыке системного анализа и ИИ.
+С нетерпением жду возможности трудиться вместе с командой серьёзного проекта.
 
-Here are some ideas to get you started:
+##Аналитические навыки:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Сбор и формализация требований
+Написание ТЗ и проектной документации
+Построение пользовательских сценариев (Use Case)
+User Story Map и выделение MVP
+Написание сценариев приёмки на Gherkin
+BPMN, UML
+C4 Model (System Context, Container)
+DFD (контекстный и логический уровень)
+ER-диаграммы, Crow's Foot, нормализация к 3НФ
+Словарь данных
+ПМИ (программа и методика испытаний)
+
+##Технические навыки:
+
+SQL: SELECT, JOIN, WHERE, GROUP BY, подзапросы
+Python: скрипты, интеграции, автоматизация
+Git, GitHub
+
+##Инструменты:
+
+Miro
+Figma
+draw.io / diagrams.net
+VS Code
+Telegram Bot API
+
+##Навыки работы с ИИ:
+
+Промпт-инжиниринг
+Оркестрация нескольких LLM (YandexGPT, YandexART)
+Интеграция LLM в продукты
+
+##Контакты и ссылки:
+
+Email: al_himi@mail.ru
+Telegram: https://t.me/SuazyP
