@@ -44,5 +44,7 @@ Miro · Figma · draw.io · VS Code · Telegram Bot API
 - **Telegram:** [@SuazyP](https://t.me/SuazyP)
 - **Email:** al_himi@mail.ru
 - **Портфолио:**
-Telegram-бот с долгосрочной памятью на Qdrant, интеграцией YandexGPT/YandexART и самодиагностикой.
-[Репозиторий](https://github.com/pavelsukmanov89-blip/personal-ai-assistant)
+
+🔗[Личный проект](https://github.com/pavelsukmanov89-blip/personal-ai-assistant)
+
+🔗[Проекты ЯндексПрактикум](https://github.com/pavelsukmanov89-blip/yandex_portfolio#-проекты)
